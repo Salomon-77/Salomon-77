@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Salomon-77 ans completly newbie
-- 👀 I’m interested in Programming langueages
+- 👋 Hi, I’m @Salomon-77 an completly newbie
+- 👀 I’m interested in programming langueages
 - 🌱 I’m currently learning on The Odin Project & Codeacademy
 - HTML, CSS and Javascript
 - Started to learn PHP, via Framework Laravel
+- Actually Offline Coder. Not so often here....
